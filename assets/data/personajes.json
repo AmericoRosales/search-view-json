@@ -1,0 +1,43 @@
+[
+    {
+      "nombre": "Homer Simpson",
+      "edad": 39,
+      "ocupacion": "Inspector de seguridad en la planta nuclear",
+      "familia": "Marge, Bart, Lisa, Maggie",
+      "descripcion": "El padre de la familia Simpson, conocido por su amor a la cerveza y su pereza.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"
+    },
+    {
+      "nombre": "Marge Simpson",
+      "edad": 36,
+      "ocupacion": "Ama de casa",
+      "familia": "Homer, Bart, Lisa, Maggie",
+      "descripcion": "La matriarca de la familia Simpson, conocida por su peinado azul y su carácter paciente.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png"
+    },
+    {
+      "nombre": "Bart Simpson",
+      "edad": 10,
+      "ocupacion": "Estudiante",
+      "familia": "Homer, Marge, Lisa, Maggie",
+      "descripcion": "El hijo mayor de los Simpson, travieso y rebelde.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png"
+    },
+    {
+      "nombre": "Lisa Simpson",
+      "edad": 8,
+      "ocupacion": "Estudiante",
+      "familia": "Homer, Marge, Bart, Maggie",
+      "descripcion": "La hija inteligente y sensible de los Simpson, apasionada por la música y el medio ambiente.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png"
+    },
+    {
+      "nombre": "Maggie Simpson",
+      "edad": 1,
+      "ocupacion": "Bebé",
+      "familia": "Homer, Marge, Bart, Lisa",
+      "descripcion": "La bebé de la familia, conocida por su chupete.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png"
+    }
+  ]
+  
